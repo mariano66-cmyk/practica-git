@@ -4,3 +4,7 @@ Aprendiendo Git paso a paso
 ## Comandos útiles
 - git status
 - git log --oneline
+
+## Comandos útiles
+- git status
+- git log --oneline
